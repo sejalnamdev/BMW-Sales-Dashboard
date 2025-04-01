@@ -79,10 +79,10 @@ The dataset includes:
 
 ## 💡 Author
 
-Made with 💙 by Sheel Ganvir
+Made with 💙 by Sejal Namdev
 
-📬 sheelganvir2805@gmail.com
-🌐 [LinkedIn](https://www.linkedin.com/in/sheel-ganvir/)
+📬 namdevsejal31@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/sejal-namdev-44a821319/)
 
 ---
 
